@@ -1,6 +1,6 @@
 ## The pattern of matrix inversing with caching
 
-## This function returns the special list with matrix and it's inverse
+## This function returns the special vector with matrix and it's inverse
 
 makeCacheMatrix <- function(x = matrix()) {
       m <- NULL
